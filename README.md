@@ -5,4 +5,4 @@ Have you ever found it cumbersone that, natively, Windows doesn't really let you
 
 Well, look no further. I have created a C++ script that will apply performance options using the Windows API and registry calls, which apply keys that cannot be set by SPI (SystemParametersInfo) calls. After this script runs, it will end explorer.exe and restart it. This effortlessly applies the script. 
 
-The options are that everything is unchecked except for Font Smoothing
+The options are that everything is unchecked except for Font Smoothing, which is normally the ideal performance for Virtual Machines. 
