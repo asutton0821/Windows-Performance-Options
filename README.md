@@ -1,4 +1,4 @@
-# Windows-Performance-Options
+# Windows Performance Options
 
 Have you ever found it cumbersone that, natively, Windows doesn't really let you apply Performance Options settings without a reboot? If you are an end user, you can hit "Apply". However, from a Systems Administrator standpoint, trying to apply via GPO or Registry is a pain as it requires a reboot or logoff from the user. This means that for the first login, the user will have bad performance if they are on a VM. 
 
